@@ -1,0 +1,36 @@
+-*aviao*-
+1
+Boing
+Modelo aviao
+2009
+3.1313132E7
+2323
+Turbina
+nao
+-*carro*-
+2
+Ford
+Mustang
+2006
+550.0
+4
+muscle 
+sim
+-*aviao*-
+3
+Marca aviao 2
+modelo aviao 2
+2000
+3123123.0
+313213
+jato
+sim
+-*carro*-
+5
+Ferrari
+Enzo
+2005
+800.0
+2
+Esportiva
+nao
